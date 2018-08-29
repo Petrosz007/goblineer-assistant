@@ -1,0 +1,27 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\python36\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named resource - imported by posix, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named posix - imported by os, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named _posixsubprocess - imported by subprocess, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named readline - imported by cmd, code, pdb, E:\0Programozás\Python\goblineer-assistant\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named _winreg - imported by platform, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named 'java.lang' - imported by platform, E:\0Programozás\Python\goblineer-assistant\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named termios - imported by tty, getpass, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named urllib.urlencode - imported by urllib, speech_recognition
+missing module named grp - imported by shutil, tarfile, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named _dummy_threading - imported by dummy_threading, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named org - imported by copy, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, E:\0Programozás\Python\goblineer-assistant\main.py
+missing module named 'org.python' - imported by pickle, E:\0Programozás\Python\goblineer-assistant\main.py, xml.sax
+missing module named __builtin__ - imported by sphinxbase.ad, sphinxbase.sphinxbase, pocketsphinx.pocketsphinx
+missing module named monotonic - imported by speech_recognition
+missing module named 'googleapiclient.http' - imported by speech_recognition
+missing module named 'googleapiclient.errors' - imported by speech_recognition
+missing module named googleapiclient - imported by speech_recognition
+missing module named oauth2client - imported by speech_recognition
+missing module named snowboydetect - imported by speech_recognition
+missing module named urllib2 - imported by speech_recognition
